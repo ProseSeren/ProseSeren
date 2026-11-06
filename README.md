@@ -15,8 +15,8 @@
   </p>
 
   <p align="center">
-    <a href="https://kamisato520.github.io">🌐 Homepage 学术主页</a> &nbsp;•&nbsp;
-    <a href="https://kamisato520.github.io/files/cv_zh.pdf">📄 CV 简历</a> &nbsp;•&nbsp;
+    <a href="https://proseseren.github.io">🌐 Homepage 学术主页</a> &nbsp;•&nbsp;
+    <a href="https://proseseren.github.io/files/cv_zh.pdf">📄 CV 简历</a> &nbsp;•&nbsp;
     <a href="https://github.com/PRIS-CV/DataEvolver">⚡ DataEvolver</a> &nbsp;•&nbsp;
     <a href="https://arxiv.org/abs/2605.01789">📄 arXiv:2605.01789</a> &nbsp;•&nbsp;
     <a href="https://pris-cv.github.io/DataEvolver/">🌐 Project Page</a>
@@ -102,7 +102,7 @@
     <a href="https://arxiv.org/abs/2605.01789"><img src="https://img.shields.io/badge/Paper-arXiv%3A2605.01789-b31b1b?style=flat-square&logo=arxiv&logoColor=white" alt="arXiv"></a>
     <a href="https://github.com/PRIS-CV/DataEvolver"><img src="https://img.shields.io/badge/Code-PRIS--CV%2FDataEvolver-blue?style=flat-square&logo=github&logoColor=white" alt="Code"></a>
     <a href="https://pris-cv.github.io/DataEvolver/"><img src="https://img.shields.io/badge/Project-Page-0078D7?style=flat-square&logo=googlechrome&logoColor=white" alt="Project Page"></a>
-    <a href="https://kamisato520.github.io/files/method_overview.pdf"><img src="https://img.shields.io/badge/Method-Overview-9cf?style=flat-square" alt="Method Overview"></a>
+    <a href="https://proseseren.github.io/files/method_overview.pdf"><img src="https://img.shields.io/badge/Method-Overview-9cf?style=flat-square" alt="Method Overview"></a>
   </p>
 </div>
 
@@ -122,12 +122,12 @@
 * **DataEvolver: Let Your Data Build and Improve Itself via Goal-Driven Loop Agents**  
   **Qisong Zhang***, Wenzhuo Wu*, Zhuangzhuang Jia, Yunhao Yang, Shuo Zhang, Huayu Zhang, Xianghao Zang, Zhixiang He, Zhongjiang He, Kongming Liang, Zhanyu Ma  
   *AIDataSci 2026 · KDD 2026 Workshop (Oral) · arXiv:2605.01789* — First author (equal contribution) 第一作者（共同一作）, `*` equal contribution 共同一作  
-  [ [arXiv](https://arxiv.org/abs/2605.01789) ] · [ [Code](https://github.com/PRIS-CV/DataEvolver) ] · [ [Project Page](https://pris-cv.github.io/DataEvolver/) ] · [ [OpenReview](https://openreview.net/forum?id=8ppusILCIH) ] · [ [Method 方法图](https://kamisato520.github.io/files/method_overview.pdf) ]
+  [ [arXiv](https://arxiv.org/abs/2605.01789) ] · [ [Code](https://github.com/PRIS-CV/DataEvolver) ] · [ [Project Page](https://pris-cv.github.io/DataEvolver/) ] · [ [OpenReview](https://openreview.net/forum?id=8ppusILCIH) ] · [ [Method 方法图](https://proseseren.github.io/files/method_overview.pdf) ]
 
 * **Traj-MCPO: Trajectory-wise Marginal-Consistent Policy Optimization**  
   Shuo Zhang, **Qisong Zhang**, Huayu Zhang, LanXiang Zhou, Xianghao Zang, Zhongjiang He, Zhixiang He, Chi Zhang, Tianwei Cao, Kongming Liang, Zhanyu Ma  
   *ACM MM 2026* (Accepted 已录用) · Second author 第二作者  
-  [ [Code](https://github.com/Kamisato520/Traj-MCPO-Trajectory-wise-Marginal-Consistent-Policy-Optimization) ]  
+  [ [Code](https://github.com/ProseSeren/Traj-MCPO-Trajectory-wise-Marginal-Consistent-Policy-Optimization) ]  
   *A trajectory-wise policy optimization framework for stable RL post-training of rectified-flow text-to-image models.（面向 Rectified-Flow 文生图模型的轨迹级边际一致性策略优化。）*
 
 * **GeoEdit++: Learning Residual-Conditioned Rotation References for Geometric Image Editing**  
@@ -142,7 +142,7 @@
 ### 🚀 Projects 项目
 
 * **[DataEvolver](https://github.com/PRIS-CV/DataEvolver) — Goal-Driven Synthetic Visual Data Engine 目标驱动的闭环视觉数据自演化引擎**  
-  VLM + Agent rendering loop with a 24-action space, inner quality gates, and an outer downstream feedback loop that turns weak angles into targeted data updates.（24 有界动作空间、内层质量门控与下游反馈外循环，将弱视角转化为定向数据扩增。）（[method 方法图](https://kamisato520.github.io/files/method_overview.pdf) · [evolution 自演化](https://kamisato520.github.io/files/dataevolver_self_evolution.pdf) · [comparison 对比](https://kamisato520.github.io/files/dataevolver_rotation_comparison.pdf)）
+  VLM + Agent rendering loop with a 24-action space, inner quality gates, and an outer downstream feedback loop that turns weak angles into targeted data updates.（24 有界动作空间、内层质量门控与下游反馈外循环，将弱视角转化为定向数据扩增。）（[method 方法图](https://proseseren.github.io/files/method_overview.pdf) · [evolution 自演化](https://proseseren.github.io/files/dataevolver_self_evolution.pdf) · [comparison 对比](https://proseseren.github.io/files/dataevolver_rotation_comparison.pdf)）
 * **Multi-task Image Editing LoRA System 多任务图像编辑 LoRA 微调系统**  
   Fine-tuned 30B Qwen-Image-Edit for rotation, movement, insertion, and removal; trained 11 angle-specific LoRAs (30°–180°) with a Preset-LoRA curriculum &amp; additive rehearsal against forgetting.（基于 30B Qwen-Image-Edit 微调旋转、移动、插入与消除任务；训练 11 个视角特定 LoRA，Preset LoRA 课程学习 + Additive Rehearsal 抗遗忘。）
 * **YouAI — Self-Evolving Multimodal UI Agent 自演化多模态 UI 智能体**  
@@ -167,20 +167,20 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kamisato520/Kamisato520/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kamisato520/Kamisato520/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Kamisato520/Kamisato520/output/github-contribution-grid-snake.svg" width="100%">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ProseSeren/ProseSeren/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ProseSeren/ProseSeren/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ProseSeren/ProseSeren/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kamisato520&theme=transparent" alt="Kamisato520 Stats" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ProseSeren&theme=transparent" alt="ProseSeren Stats" height="150" />
 </div>
 
 <br/>
 
 <div align="center">
-  <sub>Designed with research rigor & minimal aesthetics • <a href="https://kamisato520.github.io">Qisong Zhang 张启淞</a></sub>
+  <sub>Designed with research rigor & minimal aesthetics • <a href="https://proseseren.github.io">Qisong Zhang 张启淞</a></sub>
 </div>
